@@ -65,7 +65,7 @@
 
 ## APK Link 📲
 
-Download the latest APK from [here](https://example.com/synk-apk). *(soon)*
+Download the latest APK from [here](https://expo.dev/accounts/kvjharsha/projects/synk/builds/dbbba8cb-d8b6-4ff2-afb4-3cccd45bffc4). *(Live now!)*
 
 ---
 
