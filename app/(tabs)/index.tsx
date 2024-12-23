@@ -122,8 +122,8 @@ const App = () => {
 
     // Vacation (Example date range)
     const checkVacation = (currentTime: number | Date) => {
-      const vacationStart = new Date('2025-12-25');
-      const vacationEnd = new Date('2025-12-31');
+      const vacationStart = new Date('2024-11-29');
+      const vacationEnd = new Date('2025-01-06');
       return currentTime >= vacationStart && currentTime <= vacationEnd;
     };
     if (checkVacation(currentTime)) {
