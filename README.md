@@ -1,50 +1,96 @@
-# Welcome to your Expo app 👋
+# Synk 🚀
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Synk** is a React Native and TypeScript-based template app designed for intra-institute use. It provides students and faculty members with essential information like class schedules, timetables, curriculum details, and upcoming exams.
 
-## Get started
+---
 
-1. Install dependencies
+## Features ✨
 
+- **Current and Upcoming Classes** 🕒
+  - Shows the current class or upcoming class based on the time of the day.
+  - Tags include:
+    - 🏫 *In-Class*
+    - ☕ *Break*
+    - 🌴 *Day-Off*
+    - 🎉 *Holidays*
+    - ✈️ *Vacation*
+
+- **All Years Timetable** 📅
+  - Access timetables for all academic years.
+
+- **Curriculum Details** 📖
+  - View the curriculum for all years and programs.
+
+- **Exam Information** 📝
+  - Displays upcoming exams to help students prepare better.
+
+---
+
+## About the App 📋
+
+1. **Information-Focused**: Synk primarily serves as an information app for students.
+2. **No Database Connection**: The app does not rely on a backend database and functions entirely on the frontend.
+3. **Template Application**: Synk is fully front-end and serves as a foundation for further development.
+4. **Opportunities Ahead**:
+   - 🌐 Transition to a full-stack application in the future.
+   - 🔧 Expand functionality by integrating real-time data and user-specific features.
+
+---
+
+## How to Run the App 🛠️
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/synk.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd synk
+   ```
+3. Install dependencies:
    ```bash
    npm install
    ```
-
-2. Start the app
-
+4. Start the development server:
    ```bash
-    npx expo start
+   npm start
+   ```
+5. Run the app on an emulator or connected device:
+   ```bash
+   npx react-native run-android   # For Android
+   npx react-native run-ios       # For iOS
    ```
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## APK Link 📲
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Download the latest APK from [here](https://example.com/synk-apk). *(soon)*
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## Contributions 🤝
 
-```bash
-npm run reset-project
-```
+We welcome contributions from the community! Here's how you can get involved:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+1. **Fork** the repository.
+2. Create a **new branch** with your feature or fix.
+3. Submit a **pull request (PR)** for review.
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## How to Support ⭐
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- Give the repository a ⭐ to show your support!
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## Contact the Developers 📧
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Feel free to reach out to us for queries or suggestions. We look forward to hearing from you!
+
+---
+
+## Screenshots 📸
+
+*Screenshots of the app showcasing its UI and features will be added here.*
